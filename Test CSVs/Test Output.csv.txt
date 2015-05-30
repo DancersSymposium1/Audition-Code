@@ -1,0 +1,591 @@
+Dance A
+6,Allen Cai,2,true
+9,Michael Len,2,true
+49,John Wang,2,true
+147,Gautham Nagaraju,3,true
+142,Charlotte Nteireho,2,false
+62,Joe Frick,3,true
+51,Christine Pak,3,false
+96,Yiwen Jia,3,false
+43,JR Wong,1,true
+114,Darlene Reid,3,false
+82,Hannah Shepard,3,false
+88,Lisa Kwon,3,false
+Dance B
+7,Jerome Williams,4,true
+147,Gautham Nagaraju,3,true
+112,Philip Wasserman,3,true
+79,Erin Calma,3,false
+150,Brittani Grant,2,false
+151,Kristina DaCosta,3,false
+154,Jane Herriman,3,false
+92,Dana Evert-Parise,3,false
+51,Christine Pak,3,false
+69,Mitsuko Verdery ,2,false
+82,Hannah Shepard,3,false
+53,Emily Qiu,3,false
+Dance C
+8,Krizia Torres,4,false
+13,Christopher Makris,4,true
+32,Talia Livneh,3,false
+156,Sara Gotschewski,2,false
+40,Carolyn Johnson,3,false
+26,Dana Weinstein,3,false
+7,Jerome Williams,4,true
+19,Kimberly Dy,4,false
+83,Sarah Rowan,3,false
+88,Lisa Kwon,3,false
+101,Emily Parkinson,3,false
+120,Prerana Reddy,3,false
+Dance D
+9,Michael Len,2,true
+6,Allen Cai,2,true
+85,Tyrone Celoza,2,true
+49,John Wang,2,true
+148,Alex Webster,2,true
+53,Emily Qiu,3,false
+51,Christine Pak,3,false
+88,Lisa Kwon,3,false
+96,Yiwen Jia,3,false
+117,Amanda Kwok,2,false
+Dance E
+10,Tom Lewkowitz,4,true
+144,Lenny An,3,true
+146,Archit Kumar,2,true
+8,Krizia Torres,4,false
+35,Alyssa Gerharter,3,false
+26,Dana Weinstein,3,false
+32,Talia Livneh,3,false
+40,Carolyn Johnson,3,false
+46,Nisha,3,false
+65,Ashley Kilp,3,false
+105,Elyssa Goodman,2,false
+83,Sarah Rowan,3,false
+Dance F
+11,Andrew Capodieci,4,true
+12,Siddhartha Gupta,3,true
+100,Portia Taylor,3,false
+14,Karen Wright,3,false
+1,Boo Kim,3,true
+15,Nabeel Jamal,3,true
+143,Muhammed Shodeinde,3,true
+95,Lisa Marion Garcia,3,false
+60,Cecily Sunday,3,false
+73,Laura Gurwitz,3,false
+Dance G
+13,Christopher Makris,4,true
+160,Sean Pack,4,true
+2,Risa Masuda,4,false
+3,Anna Li-Conrad,4,false
+8,Krizia Torres,4,false
+100,Portia Taylor,3,false
+60,Cecily Sunday,3,false
+162,Tiana Warren,3,false
+83,Sarah Rowan,3,false
+145,Aanchal Raj,3,false
+122,Indira Biswas,3,false
+10,Tom Lewkowitz,4,true
+81,Emily Ferri,3,false
+79,Erin Calma,3,false
+22,Steve Chan,4,true
+94,Melanie Chin,3,false
+5,Maddie Jennings,4,false
+19,Kimberly Dy,4,false
+Dance H
+15,Nabeel Jamal,3,true
+12,Siddhartha Gupta,3,true
+159,Brett Harris,2,true
+143,Muhammed Shodeinde,3,true
+7,Jerome Williams,4,true
+14,Karen Wright,3,false
+122,Indira Biswas,3,false
+35,Alyssa Gerharter,3,false
+120,Prerana Reddy,3,false
+92,Dana Evert-Parise,3,false
+Dance I
+17,Yael Bushoy,3,false
+16,Clara Baron-Hyppolite,4,false
+116,Alexandra Riedl,2,false
+92,Dana Evert-Parise,3,false
+85,Tyrone Celoza,2,true
+113,Rohit,2,true
+62,Joe Frick,3,true
+42,Jillian Brinberg,2,false
+53,Emily Qiu,3,false
+64,Katherine Lee,2,false
+Dance J
+2,Risa Masuda,4,false
+3,Anna Li-Conrad,4,false
+1,Boo Kim,3,true
+160,Sean Pack,4,true
+102,Sara Mingle,3,false
+8,Krizia Torres,4,false
+4,Daniel Wetzel,4,true
+161,Erin Honcharuk,3,false
+18,Raymond Ejiofor,4,true
+13,Christopher Makris,4,true
+10,Tom Lewkowitz,4,true
+145,Aanchal Raj,3,false
+7,Jerome Williams,4,true
+22,Steve Chan,4,true
+87,Irene Tai,3,false
+73,Laura Gurwitz,3,false
+32,Talia Livneh,3,false
+26,Dana Weinstein,3,false
+146,Archit Kumar,2,true
+31,Liz Lorenzi,3,false
+65,Ashley Kilp,3,false
+79,Erin Calma,3,false
+Dance K
+16,Clara Baron-Hyppolite,4,false
+116,Alexandra Riedl,2,false
+106,Loghan Bazan,2,false
+59,Christina Chen,2,false
+64,Katherine Lee,2,false
+84,Yuni Graham,3,false
+151,Kristina DaCosta,3,false
+117,Amanda Kwok,2,false
+Dance L
+18,Raymond Ejiofor,4,true
+20,Stacy Kurnikova,3,false
+122,Indira Biswas,3,false
+4,Daniel Wetzel,4,true
+87,Irene Tai,3,false
+11,Andrew Capodieci,4,true
+100,Portia Taylor,3,false
+22,Steve Chan,4,true
+5,Maddie Jennings,4,false
+161,Erin Honcharuk,3,false
+35,Alyssa Gerharter,3,false
+19,Kimberly Dy,4,false
+73,Laura Gurwitz,3,false
+Dance M
+19,Kimberly Dy,4,false
+23,Alex McCluskey,4,false
+38,Katherine Smith,3,false
+48,Amanda Ho Sang,2,false
+151,Kristina DaCosta,3,false
+52,Amanda Russell,3,false
+47,Erica Peaslee,3,false
+Dance N
+5,Maddie Jennings,4,false
+21,Katherine Bonnington,4,false
+150,Brittani Grant,2,false
+70,Maya Irvine,2,false
+153,Meghan Conlin,1,false
+156,Sara Gotschewski,2,false
+81,Emily Ferri,3,false
+106,Loghan Bazan,2,false
+91,Kat Brandt,1,false
+Dance O
+20,Stacy Kurnikova,3,false
+69,Mitsuko Verdery ,2,false
+142,Charlotte Nteireho,2,false
+65,Ashley Kilp,3,false
+21,Katherine Bonnington,4,false
+41,Rosanna Breaux,3,false
+46,Nisha,3,false
+Dance P
+4,Daniel Wetzel,4,true
+1,Boo Kim,3,true
+160,Sean Pack,4,true
+18,Raymond Ejiofor,4,true
+61,Jesse Carrey-Beaver,1,true
+11,Andrew Capodieci,4,true
+3,Anna Li-Conrad,4,false
+102,Sara Mingle,3,false
+31,Liz Lorenzi,3,false
+87,Irene Tai,3,false
+2,Risa Masuda,4,false
+161,Erin Honcharuk,3,false
+Dance Q
+21,Katherine Bonnington,4,false
+86,Olivia O�Connor,2,false
+154,Jane Herriman,3,false
+47,Erica Peaslee,3,false
+52,Amanda Russell,3,false
+70,Maya Irvine,2,false
+17,Yael Bushoy,3,false
+24,Alicia Marrie,3,false
+66,Alyssa Montanaro,2,false
+Dance R
+22,Steve Chan,4,true
+18,Raymond Ejiofor,4,true
+102,Sara Mingle,3,false
+5,Maddie Jennings,4,false
+41,Rosanna Breaux,3,false
+20,Stacy Kurnikova,3,false
+95,Lisa Marion Garcia,3,false
+154,Jane Herriman,3,false
+89,Angela McCarthy,3,false
+46,Nisha,3,false
+94,Melanie Chin,3,false
+21,Katherine Bonnington,4,false
+105,Elyssa Goodman,2,false
+111,Amy Nasr,2,false
+16,Clara Baron-Hyppolite,4,false
+Dance S
+23,Alex McCluskey,4,false
+27,Olivia London,3,false
+38,Katherine Smith,3,false
+118,Yeonghee,1,false
+109,Diane Koeller,3,false
+47,Erica Peaslee,3,false
+68,Katie Supko,1,false
+72,Samantha Sugarman,2,false
+Dance T
+42,Jillian Brinberg,2,false
+38,Katherine Smith,3,false
+101,Emily Parkinson,3,false
+Dance U
+24,Alicia Marrie,3,false
+25,Ashley Klein,1,false
+111,Amy Nasr,2,false
+81,Emily Ferri,3,false
+80,Bradley jamison,3,false
+67,Sara Stanford,2,false
+Dance V
+4,Daniel Wetzel,4,true
+160,Sean Pack,4,true
+11,Andrew Capodieci,4,true
+13,Christopher Makris,4,true
+10,Tom Lewkowitz,4,true
+12,Siddhartha Gupta,3,true
+2,Risa Masuda,4,false
+3,Anna Li-Conrad,4,false
+60,Cecily Sunday,3,false
+40,Carolyn Johnson,3,false
+95,Lisa Marion Garcia,3,false
+145,Aanchal Raj,3,false
+31,Liz Lorenzi,3,false
+94,Melanie Chin,3,false
+14,Karen Wright,3,false
+41,Rosanna Breaux,3,false
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
+null
